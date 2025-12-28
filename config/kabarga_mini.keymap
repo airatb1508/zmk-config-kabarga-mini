@@ -73,11 +73,6 @@
             key-positions = <29 28>;
         };
 
-        togglemouse {
-            bindings = <&tog 4>;
-            key-positions = <7 6 8>;
-        };
-
         enter {
             bindings = <&kp ENTER>;
             key-positions = <18 17>;
